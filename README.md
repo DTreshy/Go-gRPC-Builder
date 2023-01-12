@@ -1,7 +1,9 @@
 # Go-gRPC-Builder
 
 ![build](https://github.com/DTreshy/Go-gRPC-Builder/actions/workflows/build.yml/badge.svg)
-![version](https://img.shields.io/github/v/release/DTreshy/Go-gRPC-Builder)
+![version](https://img.shields.io/github/v/tag/dtreshy/go-grpc-builder?include_prereleases&label=Version)
+![Docker Pulls](https://img.shields.io/docker/pulls/dtreshy/go-grpc?logo=docker)
+[![Docker Reference](https://img.shields.io/badge/DockerHub-reference-blue?logo=docker)](https://hub.docker.com/repository/docker/dtreshy/go-grpc/general)
 ![licence](https://img.shields.io/github/license/DTreshy/Go-gRPC-Builder)
 
 ## Dependencies
