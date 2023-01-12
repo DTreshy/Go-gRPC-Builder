@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.19.5-r1] - 2022-01-12
+
+## Changed
+
+| Dependency              | Old version           | New version           |
+|-------------------------|-----------------------|-----------------------|
+| golang                  | 1.19.4                | 1.19.5                |
+| curl                    | 7.87.0-r0             | 7.87.0-r1             |
+
 ## [1.19.4-r2] - 2022-01-07
 
 ## Changed

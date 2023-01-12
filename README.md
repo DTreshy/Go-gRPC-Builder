@@ -1,12 +1,14 @@
 # Go-gRPC-Builder
 
 ![build](https://github.com/DTreshy/Go-gRPC-Builder/actions/workflows/build.yml/badge.svg)
+![version](https://img.shields.io/github/v/release/DTreshy/Go-gRPC-Builder)
+![licence](https://img.shields.io/github/license/DTreshy/Go-gRPC-Builder)
 
 ## Dependencies
 
 | Dependency              | Version               |
 |-------------------------|-----------------------|
-| golang                  | 1.19.4                |
+| golang                  | 1.19.5                |
 | alpine                  | 3.17                  |
 | protobuf                | 3.21.9-r0             |
 | protobuf-dev            | 3.21.9-r0             |
@@ -21,4 +23,4 @@
 | bash                    | 5.2.15-r0             |
 | gcc                     | 12.2.1_git20220924-r4 |
 | libc-dev                | 0.7.2-r3              |
-| curl                    | 7.87.0-r0             |
+| curl                    | 7.87.0-r1             |
