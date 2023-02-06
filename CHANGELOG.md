@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.20.0-mk1] - 2022-01-07
+
+## Changed
+
+| Dependency              | Old version           | New version           |
+|-------------------------|-----------------------|-----------------------|
+| golang                  | 1.19.5                | 1.20.0                |
+| task                    | 3.19.1                | 3.20.0                |
+| golangci-lint           | 1.50.1                | 1.51.1                |
+
+## Removed
+
+| Dependency              |
+|-------------------------|
+| go-licenses             |
+| goreleaser              |
+| git                     |
+| bash                    |
+| curl                    |
+
 ## [1.19.5-r1] - 2022-01-12
 
 ## Changed
@@ -31,7 +51,7 @@ All notable changes to this project will be documented in this file.
 
 ## [1.19.4-r1] - 2022-01-07
 
-### Added
+## Added
 
 | Dependency              | Version               |
 |-------------------------|-----------------------|
