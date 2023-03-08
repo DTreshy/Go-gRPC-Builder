@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.20.2-mk2] - 2023-03-08
+
+## Added
+
+| Dependency              | Version               |
+|-------------------------|-----------------------|
+| bash                    | 5.2.15-r0             |
+
 ## [1.20.2-mk1] - 2023-03-07
 
 ## Added
