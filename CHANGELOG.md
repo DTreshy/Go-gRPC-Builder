@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.20.3-mk1] - 2023-03-08
+
+## Changed
+
+| Dependency              | Old version           | New version           |
+|-------------------------|-----------------------|-----------------------|
+| golang                  | 1.20.2                | 1.20.3                |
+| golangci-lint           | 1.51.2                | 1.52.2                |
+| task                    | 3.21.0                | 3.23.0                |
+| protoc-gen-go           | 1.28.1                | 1.30.0                |
+
 ## [1.20.2-mk2] - 2023-03-08
 
 ## Added
