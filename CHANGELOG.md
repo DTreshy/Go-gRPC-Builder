@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.20.3-mk1] - 2023-05-03
+
+## Changed
+
+| Dependency              | Old version           | New version           |
+|-------------------------|-----------------------|-----------------------|
+| golang                  | 1.20.3                | 1.20.4                |
+| git                     | 2.38.4-r1             | 2.38.5-r0             |
+| task                    | 3.23.0                | 3.24.0                |
+
 ## [1.20.3-mk1] - 2023-03-08
 
 ## Changed
