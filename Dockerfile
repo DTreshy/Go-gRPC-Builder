@@ -1,4 +1,4 @@
-FROM golang:1.21.0-alpine3.18
+FROM golang:1.21.4-alpine3.18
 
 RUN apk add --update protobuf=3.21.12-r2 protobuf-dev=3.21.12-r2 gcc=12.2.1_git20220924-r10 libc-dev=0.7.2-r5 git=2.40.1-r0 bash=5.2.15-r5
 RUN rm -rf /var/cashe/apk/*
