@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.21.5-mk1] - 2023-12-23
+
+## Changed
+
+| Dependency              | Old version             | New version            |
+|-------------------------|-------------------------|------------------------|
+| golang                  | 1.21.0                  | 1.21.5                 |
+| alpine                  | 3.18                    | 3.19                   |
+| git                     | 2.40.1-r0               | 2.43.0-r0              |
+| protobuf                | 3.21.12-r0              | 24.4-r0                |
+| protobuf-dev            | 3.21.12-r2              | 24.4-r0                |
+| gcc                     | 12.2.1_git20220924-r10  | 13.2.1_git20231014-r0  |
+| bash                    | 5.2.15-r5               | 5.2.21-r0              |
+| golangci-lint           | 1.54.2                  | 1.55.2                 |
+| task                    | 3.29.1                  | 3.33.1                 |
+| protoc-gen-go           | 1.31.0                  | 1.32.0                 |
+| protoc-gen-grpc-gateway | 2.17.1                  | 2.18.1                 |
+
 ## [1.21.0-mk1] - 2023-08-30
 
 ## Changed
