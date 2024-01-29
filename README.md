@@ -10,16 +10,16 @@
 
 | Dependency              | Version                |
 |-------------------------|------------------------|
-| golang                  | 1.21.5                 |
+| golang                  | 1.21.6                 |
 | alpine                  | 3.19                   |
 | protobuf                | 24.4-r0                |
 | protobuf-dev            | 24.4-r0                |
 | protoc-gen-go           | 1.32.0                 |
 | protoc-gen-go-grpc      | 1.3.0                  |
-| protoc-gen-grpc-gateway | 2.18.1                 |
+| protoc-gen-grpc-gateway | 2.19.0                 |
 | golangci-lint           | 1.55.2                 |
-| task                    | 3.33.1                 |
-| gcc                     | 13.2.1_git20231014-r0 |
+| task                    | 3.34.1                 |
+| gcc                     | 13.2.1_git20231014-r0  |
 | libc-dev                | 0.7.2-r5               |
 | git                     | 2.43.0-r0              |
 | bash                    | 5.2.21-r0              |
