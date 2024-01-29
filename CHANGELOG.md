@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.21.6] - 2023-01-29
+
+## Changed
+
+| Dependency              | Old version             | New version            |
+|-------------------------|-------------------------|------------------------|
+| golang                  | 1.21.5                  | 1.21.6                 |
+| task                    | 3.33.1                  | 3.34.1                 |
+| protoc-gen-grpc-gateway | 2.18.1                  | 2.19.0                 |
+
 ## [1.21.5-mk1] - 2023-12-23
 
 ## Changed
