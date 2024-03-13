@@ -29,7 +29,7 @@ jobs:
           images: dtreshy/go-grpc
       
       - name: Build and push Docker image
-        uses: docker/build-push-action@00ae31ab6ef216583e63647d8865f52da6b99a13
+        uses: docker/build-push-action@2a7db1d68aab1a514ba647f39bcde60888a1753f
         with:
           context: .
           push: true
